@@ -1,6 +1,6 @@
 ## About
 ---
-Recent computer science graduate who loves learning and building new things. I'm currently working on improving my front end skills with HTML, CSS, JavaScript, and React as well as learning full stack app/dApp development. 
+Recent computer science graduate who loves learning and building new things. I'm currently working on improving my front end skills with HTML/CSS/JavaScript/React, practicing data structures and algorithms, and learning full stack app/dApp development. 
 
 In my free time I help manage NFT communities on Discord and I research economics & supply chain. 
 
